@@ -1,1 +1,2 @@
-# lab02
+# Regresión Logística y Descenso de Gradiente
+El objetivo de esta práctica es calcular el descenso de gradiente para optimizar dicha función. Todo el proceso se realizará con funciones básicas de Python. Para ello, contamos con una base de datos que contiene 100 observaciones con los resultados de dos pruebas y una tercera variable que indica el resultado de las pruebas: 1 para los aprobados y 0 para los suspensos.
